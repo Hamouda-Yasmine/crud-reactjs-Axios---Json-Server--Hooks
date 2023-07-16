@@ -1,0 +1,40 @@
+{
+  "productsbd": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 5000,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Smart Phone",
+      "price": 4000,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Printer",
+      "price": 2000,
+      "checked": false
+    },
+    {
+      "name": "mouse",
+      "price": "500",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "catmouse",
+      "price": "8000",
+      "checked": "on",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Computer1",
+      "price": 5000,
+      "checked": "on"
+    }
+  ]
+}
